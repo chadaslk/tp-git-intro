@@ -1,0 +1,3 @@
+# ignore python cache
+sphere/__pycache__
+
